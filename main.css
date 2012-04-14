@@ -1,0 +1,26 @@
+body {
+background: url("images/linen.jpg") 0 0 no-repeat;
+width: 100%;
+}
+
+#index-page {
+width: 100%;
+margin: 0 auto;
+text-align: center;
+font-family:"Helvetica Neue", Helvetica;
+font-size: 30px;
+}
+
+#index-page a, #index-page a:visited {
+color: #fff;
+text-decoration: none;
+text-shadow: 1px 1px #111;
+}
+
+#index-page a:hover {
+color: #ff3399;
+}
+
+ul {
+padding-left: 0;
+}
